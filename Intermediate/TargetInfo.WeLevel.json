@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "WeLevel",
+			"Path": "C:\\Users\\me\\Documents\\Unreal Projects\\WeLevel\\Source\\WeLevel.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WeLevelEditor",
+			"Path": "C:\\Users\\me\\Documents\\Unreal Projects\\WeLevel\\Source\\WeLevelEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
