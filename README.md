@@ -1,6 +1,6 @@
 # WeLevel test
 
-The main class for the functionality is located at Source/WeLevel/TagWatcher_WaitGameplaytag.h
+The main class for the functionality is located at Source/WeLevel/TagWatcher_WaitGameplayTag.h
 
 # Running project
 
